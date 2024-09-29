@@ -2,6 +2,8 @@
 
 This project is a simplified email servive built with Django on the backend and JS on the frontend. It allows users to register, log in, send and receive emails, archive messages, and mark them as read or unread. Also integrated the use of API endpoints.
 
+Note: My full history of commits can be seen at my other repository: CS50 WEB Progress Project 3
+
 **Features**
 1. User Authentication: Users can register, log in, and log out.
 2. Inbox: View all received emails, mark them as read/unread.
