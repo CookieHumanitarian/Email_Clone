@@ -17,6 +17,7 @@ This project is a simplified email servive built with Django on the backend and 
 3. Database: SQLite 
 
 **Installation**
+
 Clone the repository:
 git clone https://github.com/your-username/email-app.git
 cd email-app
@@ -32,6 +33,7 @@ Start the Django server:
 python manage.py runserver
 
 **Usage**
+
 Login/Register:
 New users can register via the register form.
 Registered users can log in using their email and password.
