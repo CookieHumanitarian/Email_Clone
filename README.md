@@ -11,10 +11,12 @@ This project is a simplified email servive built with Django on the backend and 
 6. Reply to Emails: Reply to received emails.
 7. Pagination: Paginate emails for better user experience.
 
+
 **Technologies Used**
 1. Backend: Django 
 2. Frontend: HTML, CSS, JavaScript
 3. Database: SQLite 
+
 
 **Installation**
 
@@ -31,6 +33,7 @@ python manage.py migrate
 
 Start the Django server:
 python manage.py runserver
+
 
 **Usage**
 
@@ -52,12 +55,14 @@ Archive or unarchive emails using the provided button.
 Reply:
 Click the "Reply" button when viewing an email to respond.
 
+
 **API Endpoints**
 This app provides several API endpoints that can be accessed by the frontend:
 1. POST /emails: Send a new email.
 2. GET /emails/<mailbox>: Retrieve emails for a specific mailbox (inbox, sent, archive).
 3. GET /emails/<email_id>: Get the details of a specific email.
 4. PUT /emails/<email_id>: Update email status (mark as read or archive/unarchive).
+
 
 **View of Website**
 
