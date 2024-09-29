@@ -57,6 +57,7 @@ Click the "Reply" button when viewing an email to respond.
 
 
 **API Endpoints**
+
 This app provides several API endpoints that can be accessed by the frontend:
 1. POST /emails: Send a new email.
 2. GET /emails/<mailbox>: Retrieve emails for a specific mailbox (inbox, sent, archive).
