@@ -60,6 +60,7 @@ This app provides several API endpoints that can be accessed by the frontend:
 4. PUT /emails/<email_id>: Update email status (mark as read or archive/unarchive).
 
 **View of Website**
+
 Main
 ![Main page](./images/main.png)
 
